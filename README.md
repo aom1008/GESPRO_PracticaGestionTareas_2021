@@ -8,3 +8,4 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 - [Enrique del Olmo Dominguez](https://github.com/eod1001)
 - [Juan Luis Garcia Gonzalez](https://github.com/jgg1009)
 - [Marcos Monge Belenguer](https://github.com/mmb1009)
+- [Alejandro Ortega MArtinez](https://github.com/aom1008)
