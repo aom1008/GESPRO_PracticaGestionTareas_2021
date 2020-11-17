@@ -5,4 +5,4 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 
 **Incluid debajo el nombre de los miembros del grupo:**
 
--[Enrique del Olmo Dominguez]:@eod1001
+- [Enrique del Olmo Dominguez](https://github.com/eod1001)
